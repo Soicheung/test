@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="前程贷">
+    <test name="测试">
+        <classes>
+            <class name="com.soicheung.testcases.RegisterTest"></class>
+            <class name="com.soicheung.testcases.LoginTest"></class>
+            <class name="com.soicheung.testcases.GetUserInfoTest"></class>
+            <class name="com.soicheung.testcases.RechargeTest"></class>
+            <class name="com.soicheung.testcases.AddLoanTest"></class>
+        </classes>
+    </test>
+</suite>
